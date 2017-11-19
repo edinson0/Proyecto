@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_40nNGY
 Rama A
+=======
+Rama B
+>>>>>>> .merge_file_FzOVGZ
